@@ -9,7 +9,18 @@ Desenvolver e comparar modelos de regressão capazes de estimar a nota média (`
 ## Integrantes
 
 * Carlos Henrico Fontes Cabral
+* Gabriel Almeida Mota Bomfim
+* Pedro Caldas de Souze Lucas Marques
 
+
+## 👨‍💻 Divisão das Contribuições
+
+O projeto foi desenvolvido de forma colaborativa, com a seguinte divisão de foco:
+
+* **Gabriel Almeida Mota Bomfim:** Implementação do código-fonte em Python, preparação dos dados e treinamento dos modelos de Machine Learning (Regressão Linear, Árvore de Decisão e Random Forest).
+* **Pedro Caldas de Souze Lucas Marques:** Extração e consolidação das métricas de avaliação (MAE, MSE, RMSE, R²) e geração dos gráficos de análise de resíduos dos modelos.
+* **Carlos Henrico Fontes Cabral:** Revisão metodológica, adequação do código para execução em nuvem (Google Colab), redação das justificativas teóricas, interpretação analítica dos resultados e organização geral da documentação no GitHub.
+---
 ## Fonte dos Dados
 
 * **Dataset:** [TMDB Top 10000 Movies Updated 2026](https://www.kaggle.com/datasets/siddharthbhakta/tmdb-top-10000-movies-updated-2026)
@@ -69,20 +80,6 @@ Os resultados indicam que o **Random Forest** foi o modelo mais adequado para es
 
 ---
 
-## 👨‍💻 Divisão das Contribuições
-
-Todo o desenvolvimento deste projeto foi realizado por **Carlos Henrico Fontes Cabral**, incluindo:
-
-- Definição do problema;
-- Levantamento e compreensão do conjunto de dados;
-- Análise exploratória dos dados (EDA);
-- Pré-processamento dos dados;
-- Implementação e treinamento dos modelos de regressão;
-- Avaliação e comparação dos modelos;
-- Elaboração da documentação do projeto (Notebook e README).
-
----
-
 ## 🎥 Vídeo de Apresentação
 
 > **Link:** *(Inserir o link do vídeo no YouTube ou Google Drive.)*
@@ -97,5 +94,5 @@ O **ChatGPT** foi utilizado principalmente para esclarecer conceitos relacionado
 
 O **Gemini** foi utilizado como apoio na implementação de trechos de código, auxiliando na construção, adaptação e revisão de soluções durante o desenvolvimento do projeto.
 
-As decisões referentes à definição do problema, escolha dos atributos, análise exploratória, implementação final do código, treinamento dos modelos, interpretação dos resultados e elaboração das conclusões foram conduzidas pelo autor.
+As decisões referentes à definição do problema, escolha dos atributos, análise exploratória, implementação final do código, treinamento dos modelos, interpretação dos resultados e elaboração das conclusões foram conduzidas pelos autores.
 As ferramentas de Inteligência Artificial foram empregadas exclusivamente como suporte ao aprendizado, revisão metodológica e auxílio ao desenvolvimento, mantendo-se a responsabilidade pelas decisões técnicas e pelo conteúdo final do trabalho.
